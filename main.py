@@ -1,5 +1,5 @@
 def main():
-    print('My first script')
+    print('My first script1')
 
 
 if __name__ == '__main__':
